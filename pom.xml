@@ -60,7 +60,7 @@
             <version>3.0.0-M5</version> <!-- Or latest version -->
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>testng.xml</suiteXmlFile> <!-- Replace with your testng.xml file name -->
+                    <suiteXmlFile>testng-results.xml</suiteXmlFile> <!-- Replace with your testng.xml file name -->
                 </suiteXmlFiles>
             </configuration>
         </plugin>
